@@ -1,0 +1,12 @@
+
+url: http://www.freerdp.com
+markdown: kramdown
+baseurl: /
+permalink: /:year/:month/:day/:title
+gems:
+  - jekyll-sitemap
+name: FreeRDP
+author:
+  name: Bernhard Miklautz
+  email: bmiklautz+freerdp@shacknet.at
+description: FreeRDP is a free remote desktop protocol client.
